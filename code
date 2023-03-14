@@ -1,1 +1,23 @@
-here i created the new app for my colligues
+here i created the new project talks about short story of chadwick bosman known as black panther
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Index</title>
+</head>
+<body>
+    <center>
+        <h1>Short Story About Chadwick Bosman</h1>
+        <p>
+            This man Chadwick Bosman was born in 1985 and he was born in  mali
+            in 2018 he start playing movie in the company, <br> called marvels
+            he play avengers and may other movies but the one he play and make <br> him be known by many
+            people is Black Panther.
+            <br> in 2020 the bad news appears every where on social media saying that this may has died <br>
+            that was short story about this man chadwick Bosman 
+        </p>
+    </center>
+</body>
+</html>
